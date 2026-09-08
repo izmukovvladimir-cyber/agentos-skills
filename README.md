@@ -70,7 +70,7 @@ Senior-архитектор для образовательных SaaS-плат�
 /plugin install superpowers@claude-plugins-official
 ```
 
-**Через marketplace от автора** (Jesse Vincent, обновляется быстрее):
+**Через marketplace** (обновляется быстрее):
 
 ```bash
 /plugin marketplace add izmukovvladimir-cyber/superpowers-marketplace
