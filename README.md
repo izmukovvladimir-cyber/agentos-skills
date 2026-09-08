@@ -60,7 +60,7 @@ Senior-архитектор для образовательных SaaS-плат�
 
 ## Superpowers (третий обязательный скилл интенсива)
 
-Не пак нашего репо — ставится отдельно. **Superpowers** — это complete software development methodology для Claude Code от [Jesse Vincent (obra)](https://github.com/obra/superpowers): spec-driven workflow → план → subagent-driven development → TDD по красному/зелёному. Совпадает с философией нашего CLAUDE.md гайда (Plan Mode, Subagents, Verification Before Done).
+Не пак нашего репо — ставится отдельно. **Superpowers** — это complete software development methodology для Claude Code от [Superpowers](https://github.com/izmukovvladimir-cyber/superpowers): spec-driven workflow → план → subagent-driven development → TDD по красному/зелёному. Совпадает с философией нашего CLAUDE.md гайда (Plan Mode, Subagents, Verification Before Done).
 
 Установка для Claude Code — на выбор:
 
@@ -73,15 +73,15 @@ Senior-архитектор для образовательных SaaS-плат�
 **Через marketplace от автора** (Jesse Vincent, обновляется быстрее):
 
 ```bash
-/plugin marketplace add obra/superpowers-marketplace
+/plugin marketplace add izmukovvladimir-cyber/superpowers-marketplace
 /plugin install superpowers@superpowers-marketplace
 ```
 
-Полная документация и инструкции для Codex CLI, Cursor, Gemini CLI, GitHub Copilot CLI — в [obra/superpowers](https://github.com/obra/superpowers).
+Полная документация и инструкции для Codex CLI, Cursor, Gemini CLI, GitHub Copilot CLI — в [izmukovvladimir-cyber/superpowers](https://github.com/izmukovvladimir-cyber/superpowers).
 
 ## Связанные ресурсы
 
-- **Гайд по CLAUDE.md** — [docs/efir-1/claude-md-guide.md](https://github.com/qwwiwi/intensive-agentos/blob/main/docs/efir-1/claude-md-guide.md) из репо `intensive-agentos`. Анатомия конфигурационного файла Claude Code из 18 элементов.
+- **Гайд по CLAUDE.md** — [docs/efir-1/claude-md-guide.md](https://github.com/izmukovvladimir-cyber/intensive-agentos/blob/main/docs/efir-1/claude-md-guide.md) из репо `intensive-agentos`. Анатомия конфигурационного файла Claude Code из 18 элементов.
 
 ## Лицензия
 
