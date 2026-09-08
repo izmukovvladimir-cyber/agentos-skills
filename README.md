@@ -14,7 +14,7 @@ Skills-пак для Claude Code, используемый в интенсиве
 Одна команда — Claude Code сам скачает архив и подключит скилл:
 
 ```bash
-claude skill add https://github.com/qwwiwi/agentos-skills/raw/main/telegram-bot-builder.skill
+claude skill add https://github.com/izmukovvladimir-cyber/agentos-skills/raw/main/telegram-bot-builder.skill
 ```
 
 Аналогично для других скиллов по мере публикации пакетов.
@@ -24,7 +24,7 @@ claude skill add https://github.com/qwwiwi/agentos-skills/raw/main/telegram-bot-
 Распакованные версии скиллов лежат в этом же репо:
 
 ```bash
-git clone https://github.com/qwwiwi/agentos-skills.git
+git clone https://github.com/izmukovvladimir-cyber/agentos-skills.git
 cp -r agentos-skills/senior-brainstorm     ~/.claude/skills/
 cp -r agentos-skills/telegram-bot-builder  ~/.claude/skills/
 ```
