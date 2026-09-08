@@ -81,7 +81,7 @@ Senior-архитектор для образовательных SaaS-плат�
 
 ## Связанные ресурсы
 
-- **Гайд по CLAUDE.md** — [docs/efir-1/claude-md-guide.md](https://github.com/izmukovvladimir-cyber/intensive-agentos/blob/main/docs/efir-1/claude-md-guide.md) из репо `intensive-agentos`. Анатомия конфигурационного файла Claude Code из 18 элементов.
+- **Гайд по CLAUDE.md** — `docs/efir-1/claude-md-guide.md` из репо `intensive-agentos`. Анатомия конфигурационного файла Claude Code из 18 элементов.
 
 ## Лицензия
 
